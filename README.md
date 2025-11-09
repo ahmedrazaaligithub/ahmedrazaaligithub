@@ -26,7 +26,8 @@ I also love teaching and mentoring aspiring developers, helping them grow in ful
 
 ### 🌐 Connect With Me  
 
-[![Portfolio](https://ahmed-raza-one.vercel.app/)  
+[![Portfolio](https://ahmed-raza-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel)](https://ahmed-raza-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmed-raza-479b29278/)  
 [![Twitter/X](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x)](https://x.com/ahmedrazaparmar)  
 [![Company](https://img.shields.io/badge/-Company-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.whdevelopers.com/)  
